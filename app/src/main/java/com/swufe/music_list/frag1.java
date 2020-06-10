@@ -14,7 +14,7 @@ import androidx.fragment.app.Fragment;
 
 public class frag1 extends Fragment {
     private View view;
-    public String[] name={"Troye Sivan——My My My!","Troye Sivan——Seventeen","Troye Sivan——Bloom"};
+    public String[] name={"Troye Sivan——Bloom","Troye Sivan——My My My!","Troye Sivan——Seventeen"};
     public static int[] icons={R.drawable.music0,R.drawable.music1,R.drawable.music2};
     @Override
     public View onCreateView(final LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
