@@ -14,8 +14,8 @@ import androidx.fragment.app.Fragment;
 
 public class frag1 extends Fragment {
     private View view;
-    public String[] name={"Troye Sivan——Bloom","Troye Sivan——My My My!","Troye Sivan——Seventeen"};
-    public static int[] icons={R.drawable.music0,R.drawable.music1,R.drawable.music2};
+    public String[] name={"Troye Sivan——Bloom","Troye Sivan——My My My!","Troye Sivan——Seventeen","Troye Sivan——Animal","Troye Sivan——Lucky Strike","Troye Sivan——Plum","Troye Sivan——The Good Side","Troye Sivan——What A Heavenly Way To Die","Troye Sivan——Dance to This","Troye Sivan——Postcard"};
+    public static int[] icons={R.drawable.music0,R.drawable.music1,R.drawable.music2,R.drawable.music3,R.drawable.music4,R.drawable.music5,R.drawable.music6,R.drawable.music7,R.drawable.music8,R.drawable.music9};
     @Override
     public View onCreateView(final LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         view=inflater.inflate(R.layout.music_list,null);

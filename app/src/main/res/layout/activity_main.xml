@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="我喜欢"
+            android:text="XX专属歌单"
             android:textSize="35dp"/>
     </LinearLayout>
     <LinearLayout
